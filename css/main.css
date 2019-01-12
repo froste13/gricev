@@ -8,3 +8,9 @@ body {
 div, p, button, span, a {
     box-sizing: border-box;
 }
+
+.container {
+    width: 570px;
+    margin: 0 auto;
+}
+
