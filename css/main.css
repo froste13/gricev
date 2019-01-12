@@ -14,3 +14,7 @@ div, p, button, span, a {
     margin: 0 auto;
 }
 
+.header {
+    background: url('../img/Layer_5.png') no-repeat;
+
+}
