@@ -11,10 +11,10 @@ div, p, button, span, a {
 
 .container {
     width: 570px;
-    margin: 0 auto;
+    margin: 0 215px;
 }
 
 .header {
     background: url('../img/Layer_5.png') no-repeat;
-
+    padding-top: 59px;
 }
