@@ -228,4 +228,11 @@ h1{
     background: #564A40;
 }
 
-
+.footer {
+    background: #ececec;
+    color: #a1a1a1;
+    font-size: 12px;
+    margin-top: 55px;
+    padding: 22px 0;
+    text-align: center;
+}
