@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 h1{
     width: 428px;
     height: 57px;
-    color: #ffffff;
+    color: #fff;
     font-size: 24px;
     font-weight: 400;
     line-height: 34.2px;
@@ -56,4 +56,25 @@ h1{
 
     width: 29px;
     height: 29px;
+}
+
+.btn {
+    background: #56ba5b;
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    width: 188px;
+    padding: 12px 0;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 192px;
+    transition: all 0.5s ease;
+    margin-bottom: 47px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #399b3a;
 }
