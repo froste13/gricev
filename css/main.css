@@ -112,3 +112,14 @@ h1{
     background: url("../img/24-layers.png") no-repeat top center;
     padding-right: 15px;
 }
+
+.DISCOUNT h2{
+    color: #7a695a;
+    font-weight: 400;
+    line-height: 34.2px;
+    font-size: 14px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    border: 1px solid #7a695a;
+    margin: 60px 68px 55px 68px;
+}
