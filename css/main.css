@@ -78,3 +78,37 @@ h1{
 .btn:hover {
     background: #399b3a;
 }
+
+.merits {
+    display: inline-flex;
+    background: url("../img/20-layers.png") no-repeat;
+    padding-top: 37px;
+    padding-right: 77px;
+    padding-left: 33px;
+    padding-bottom: 20px;
+}
+
+.unit {
+    width: 160px;
+    background: url("../img/22-layers.png") no-repeat top center;
+    padding-top: 70px;
+    padding-left: 27px;
+
+}
+
+.unit p{
+    color: #666666;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.unit:nth-child(2){
+    background: url("../img/23-layers.png") no-repeat top center;
+    padding-right: 12px;
+}
+
+.unit:nth-child(3){
+    background: url("../img/24-layers.png") no-repeat top center;
+    padding-right: 15px;
+}
